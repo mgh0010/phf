@@ -1,0 +1,17 @@
+Script started on Thu 20 Apr 2017 10:28:21 AM CDT
+[01;32mmichael@michael-XPS-15-9530[01;34m ~/ProjectHorseshoeFarm $[00m exitphp sub.php 
+I got code 0
+Subscribed to a topic
+
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"48:46:94:7b:42:1a","val":"-93"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"48:46:94:7b:42:1a","val":"-89"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"48:46:94:7b:42:1a","val":"-91"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"48:46:94:7b:42:1a","val":"-74"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"48:46:94:7b:42:1a","val":"-92"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"48:46:94:7b:42:1a","val":"-79"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"48:46:94:7b:42:1a","val":"-88"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"48:46:94:7b:42:1a","val":"-92"}^C
+[01;32mmichael@michael-XPS-15-9530[01;34m ~/ProjectHorseshoeFarm $[00m exit
+exit
+
+Script done on Thu 20 Apr 2017 10:29:05 AM CDT

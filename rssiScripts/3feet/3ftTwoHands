@@ -1,0 +1,19 @@
+Script started on Thu 20 Apr 2017 10:18:17 AM CDT
+[01;32mmichael@michael-XPS-15-9530[01;34m ~/ProjectHorseshoeFarm $[00m exitphp sub.php 
+I got code 0
+Subscribed to a topic
+
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-69"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-81"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-67"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-71"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-66"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-82"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-83"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-81"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-69"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"71:84:3c:b7:35:61","val":"-67"}^C
+[01;32mmichael@michael-XPS-15-9530[01;34m ~/ProjectHorseshoeFarm $[00m php sub.php [8Pexitphp sub.php [8Pexitphp sub.php [Kexit
+exit
+
+Script done on Thu 20 Apr 2017 10:18:54 AM CDT

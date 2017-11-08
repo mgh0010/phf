@@ -1,0 +1,24 @@
+Script started on Thu 20 Apr 2017 10:27:28 AM CDT
+[01;32mmichael@michael-XPS-15-9530[01;34m ~/ProjectHorseshoeFarm $[00m exitphp sub.php 
+I got code 0
+Subscribed to a topic
+
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-71"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-81"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-74"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-84"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-82"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-72"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-83"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-69"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-86"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-68"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-76"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-71"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-82"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-70"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"55:96:d2:14:9c:f1","val":"-87"}^C
+[01;32mmichael@michael-XPS-15-9530[01;34m ~/ProjectHorseshoeFarm $[00m exit
+exit
+
+Script done on Thu 20 Apr 2017 10:28:10 AM CDT

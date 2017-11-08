@@ -1,0 +1,81 @@
+html {
+    font-family: "Roboto", sans-serif;
+    background-color: #8c9eff;
+    height: 100%;
+  }
+
+body {
+	min-height: 100%;
+	background-color: #8c9eff;
+}
+
+#user {
+	background-color: #424242;
+	border-bottom: 200px #8c9eff;
+}
+
+.input-field input:focus {
+	border-bottom: red !important;
+}
+
+#logo {
+	padding-left: 1%;
+}
+
+nav {
+	background-color: #424242;
+}
+
+#indexButtons {
+	position: absolute;
+	right: 0;
+}
+
+h6 {
+	color: white;
+	text-decoration: underline;
+}
+
+.btn {
+	background-color: #ef5350;
+}
+
+.btn:hover {
+	background-color: #ff5252;
+}
+
+.input-field {
+	color: white !important;
+}
+
+.input-field label {
+	color: white !important;
+}
+
+.input-field input {
+	border-bottom: 1px solid #ffffff !important;
+}
+
+.input-field input:focus + label {
+   color: white !important;
+ }
+
+.input-field input:focus {
+   border-bottom: 1px white !important;
+   box-shadow: 0 1px 0 0 white !important;
+ }
+
+ .spinner-layer {
+ 	border-color: white !important;
+ }
+
+.dropdown-content li>a, .dropdown-content li>span {
+	color: #424242; !important;
+}
+
+ul {
+	max-height: 450% !important;
+}
+
+
+

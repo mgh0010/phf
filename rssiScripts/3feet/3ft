@@ -1,0 +1,25 @@
+Script started on Thu 20 Apr 2017 10:15:41 AM CDT
+[01;32mmichael@michael-XPS-15-9530[01;34m ~/ProjectHorseshoeFarm $[00m hostname -Issh pi@172.18.38.109exit[Kssh pi@172.18.38.109[9Phostname -I[Khostname -Issh pi@172.18.38.109exit[Kscript[3Pend[1Plsvim sub.php php[C[C[C[C[C[C[C[C[Cvim[C[C[C[C[C[C[C[C[Cphp[C[C[C[C[C[C[C[C[C
+I got code 0
+Subscribed to a topic
+
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-80"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-62"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-77"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-61"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-77"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-63"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-74"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-64"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-61"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-61"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-66"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-77"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-62"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-75"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-62"}
+Got a message on topic /lab3/ble/rssi/ with payload:{"id":"62:1c:45:cf:47:ba","val":"-75"}^C
+[01;32mmichael@michael-XPS-15-9530[01;34m ~/ProjectHorseshoeFarm $[00m exit
+exit
+
+Script done on Thu 20 Apr 2017 10:16:21 AM CDT
